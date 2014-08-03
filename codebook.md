@@ -45,3 +45,29 @@ Use gsub function for pattern replacement to clean up the data labels.
 ### Section 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject. 
 Per the project instructions, we need to produce only a data set with the average of each veriable for each activity and subject
 
+
+###Tidy data field names
+[1] "activityId"                                     
+[2] "subjectId"                                      
+[3] "timeBodyAccMagnitudeMean"                       
+[4] "timeBodyAccMagnitudeStandardDeviation"          
+[5] "timeGravityAccMagnitudeMean"                    
+[6] "timeGravityAccMagnitudeStandardDeviation"       
+[7] "timeBodyAccJerkMagnitudeMean"                   
+[8] "timeBodyAccJerkMagnitudeStandardDeviation"      
+[9] "timeBodyGyroMagnitudeMean"                      
+[10] "timeBodyGyroMagnitudeStandardDeviation"         
+[11] "timeBodyGyroJerkMagnitudeMean"                  
+[12] "timeBodyGyroJerkMagnitudeStandardDeviation"     
+[13] "frequencyBodyAccMagnitudeMean"                  
+[14] "frequencyBodyAccMagnitudeStandardDeviation"     
+[15] "frequencyBodyAccJerkMagnitudeMean"              
+[16] "frequencyBodyAccJerkMagnitudeStandardDeviation" 
+[17] "frequencyBodyGyroMagnitudeMean"                 
+[18] "frequencyBodyGyroMagnitudeStandardDeviation"    
+[19] "frequencyBodyGyroJerkMagnitudeMean"             
+[20] "frequencyBodyGyroJerkMagnitudeStandardDeviation"
+[21] "activityType" 
+
+
+
